@@ -5,6 +5,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import { IoMdClose } from "react-icons/io";
 import DownloadResume from "./DownloadResume";
 
+
 const sidebarVariants = {
   open: {
     x: 0,

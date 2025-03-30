@@ -1,9 +1,9 @@
 import { NavLink } from "react-router-dom";
 import PlaceholderHero from '../assets/placeholder_hero_background.jpg'
 
-const fullName = 'Replace with your name';
-const personalQuote = 'Replace with your personal quote';
-const professionalSummary = 'Replace with your professional summary';
+const fullName = 'Christunay Bowens';
+const personalQuote = 'Optimizing workflows, enhancing efficiency, and building scalable solutions.';
+const professionalSummary = 'I’m a full-stack developer with a skill for building scalable, data-driven solutions. Skilled in HTML, CSS, JavaScript, and Python. I focus on backend development, and optimizing workflows. My goal is to create efficient, user-friendly applications that solve real-world problems, particularly in logistics and operational efficiency.';
 
 const Home = () => {
   return (
