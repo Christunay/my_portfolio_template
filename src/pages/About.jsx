@@ -6,13 +6,13 @@ import { NavLink } from 'react-router-dom';
 
 // Replace these variables with your information
 const firstName = 'Christunay';
-const jobTitle = 'Replace with your title';
-const company = 'Replace with your company name';
-const mainDuty = 'Replace with your main duty';
-const jobLocation = 'Replace with your job location';
-const briefJobDescription = 'Replace with a brief description of your job';
+const jobTitle = 'Learning Ambassador';
+const company = 'Amazon';
+const mainDuty = 'training and development';
+const jobLocation = 'Texas';
+const briefJobDescription = ' focusing on employee onboarding, strategic training programs, mentorship, and facilitating learning sessions to improve productivity, safety, engagement, and overall team performance';
 const careerObjective = 'I develop scalable, data-driven solutions to optimize logistics, operational efficiency, and last-mile delivery.';
-const personalLife = 'Replace with a brief description of your personal life';
+const personalLife = 'I enjoys building fanpages dedicated to fashion and my favorite authors in my free time.';
 
 const About = () => {
   return (
