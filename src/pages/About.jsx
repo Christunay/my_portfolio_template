@@ -9,8 +9,8 @@ const firstName = 'Christunay';
 const jobTitle = 'Learning Ambassador';
 const company = 'Amazon';
 const mainDuty = 'training and development';
-const jobLocation = 'Texas';
-const briefJobDescription = ' focusing on employee onboarding, strategic training programs, mentorship, and facilitating learning sessions to improve productivity, safety, engagement, and overall team performance';
+const jobLocation = 'Dallas, Texas';
+const briefJobDescription = ' I focus on employee onboarding, strategic training programs, mentorship, and facilitating learning sessions to improve productivity, safety, engagement, and overall team performance';
 const careerObjective = 'I develop scalable, data-driven solutions to optimize logistics, operational efficiency, and last-mile delivery.';
 const personalLife = 'I enjoys building fanpages dedicated to fashion and my favorite authors in my free time.';
 
