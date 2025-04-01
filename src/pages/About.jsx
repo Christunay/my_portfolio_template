@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 
 // Replace these variables with your information
 const firstName = 'Christunay';
-const jobTitle = 'Learning Ambassador';
+const jobTitle = 'Frontend Developer';
 const company = 'Amazon';
 const mainDuty = 'training and development';
 const jobLocation = 'Dallas, Texas';
