@@ -12,7 +12,7 @@ const mainDuty = 'training and development';
 const jobLocation = 'Dallas, Texas';
 const briefJobDescription = ' I focus on employee onboarding, strategic training programs, mentorship, and facilitating learning sessions to improve productivity, safety, engagement, and overall team performance';
 const careerObjective = 'I develop scalable, data-driven solutions to optimize logistics, operational efficiency, and last-mile delivery.';
-const personalLife = 'I enjoys building fanpages dedicated to fashion and my favorite authors in my free time.';
+const personalLife = 'I enjoys building projects related to fashion like trend forecaster, closet organizer app, and virtual stylist applications.';
 
 const About = () => {
   return (
